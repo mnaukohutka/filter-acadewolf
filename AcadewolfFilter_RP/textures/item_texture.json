@@ -1,0 +1,8 @@
+{
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "acadewolf_filler": {
+      "textures": "textures/items/acadewolf_filler"
+    }
+  }
+}
